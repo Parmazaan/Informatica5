@@ -5,3 +5,5 @@ uitkomst += (str(bedrag // 100 + (bedrag % 100) // 50 + (bedrag % 50) // 20 + (b
 uitkomst += (' muntstukken ')
 
 print(uitkomst)
+
+
