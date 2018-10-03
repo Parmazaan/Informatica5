@@ -1,4 +1,4 @@
-naam = input('Wie heeft stalen zenuwen?')
+naam= input('Wie heeft stalen zenuwen?')
 
 if naam == 'vader' :
     boodschap = ('Krokodil geeft kind terug')
