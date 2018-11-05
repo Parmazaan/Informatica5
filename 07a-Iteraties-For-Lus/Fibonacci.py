@@ -7,3 +7,4 @@ for i in range(3, getalnummer + 1):
     getal_1 = getal_2
     getal_2 = getal_3
 print(getal_3)
+
